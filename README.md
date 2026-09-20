@@ -37,37 +37,42 @@
 
 ## 📂 Structure du Projet
 
-
+```text
 Py-Ceph/
 ├── ceph.py               # Fichier principal de l'application
 ├── requirements.txt      # Liste des dépendances Python
 ├── icone.png / icone.ico # Icône de l'application
 ├── .gitignore            # Fichiers ignorés par Git
 └── README.md             # Documentation du projet
+ ````
 💻 Installation et Configuration (Environnement de Développement)
 1. Cloner le dépôt
-Bash
-git clone [https://github.com/drkaroui/Py-ceph.git](https://github.com/drkaroui/Py-ceph.git)
+```
+```bash
+git clone [https://github.com/drkaroui/Py-ceph.git]
 cd Py-Ceph
-
-3. Créer et activer un environnement virtuel
+```
+2. Créer et activer un environnement virtuel
 Sous Windows :
 
-Bash
+```bash
 python -m venv venv
 venv\Scripts\activate
-
+```
 Sous macOS / Linux :
 
-Bash
+```bash
 python3 -m venv venv
 source venv/bin/activate
+```
 3. Installer les dépendances
-Bash
+```bash
 pip install -r requirements.txt
+```
 4. Lancer l'application
-Bash
+```bash
 python ceph.py
+```
 ⚙️ Génération de l'Exécutable (.exe)
 Pour compiler l'application en un fichier exécutable autonome sous Windows :
 
@@ -75,9 +80,11 @@ Assurez-vous d'avoir activé votre environnement virtuel avec toutes les dépend
 
 Lancez la commande PyInstaller :
 
-Bash
+```bash
 pyinstaller --noconsole --onefile --icon=icone.ico --add-data "icone.png;." ceph.py
+```
 L'exécutable généré (ceph.exe) se trouvera dans le dossier dist/.
-
+```
 📝 Licence
 Ce projet est sous licence libre. Vous pouvez l'utiliser et le modifier selon vos besoins.
+```
