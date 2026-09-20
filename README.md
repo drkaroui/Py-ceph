@@ -37,7 +37,7 @@
 
 ## 📂 Structure du Projet
 
-```text
+
 Py-Ceph/
 ├── ceph.py               # Fichier principal de l'application
 ├── requirements.txt      # Liste des dépendances Python
@@ -49,12 +49,14 @@ Py-Ceph/
 Bash
 git clone [https://github.com/drkaroui/Py-ceph.git](https://github.com/drkaroui/Py-ceph.git)
 cd Py-Ceph
-2. Créer et activer un environnement virtuel
+
+3. Créer et activer un environnement virtuel
 Sous Windows :
 
 Bash
 python -m venv venv
 venv\Scripts\activate
+
 Sous macOS / Linux :
 
 Bash
