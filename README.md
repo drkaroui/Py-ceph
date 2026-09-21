@@ -81,7 +81,7 @@ Assurez-vous d'avoir activé votre environnement virtuel avec toutes les dépend
 Lancez la commande PyInstaller :
 
 ```bash
-pyinstaller --noconsole --onefile --icon=icone.ico --add-data "icone.png;." ceph.py
+pyinstaller --noconsole --onefile --icon=braces.ico --add-data "braces.png;." ceph.py
 ```
 L'exécutable généré (ceph.exe) se trouvera dans le dossier dist/.
 ```
