@@ -6,6 +6,11 @@
 [![Guide d'utilisation Py-Ceph](https://img.youtube.com/vi/52mrNa7-Imk/0.jpg)](https://www.youtube.com/watch?v=52mrNa7-Imk)
 *Cliquez sur l'image ci-dessus pour lancer la vidéo de démonstration sur YouTube.*
 
+## 📺 Démonstration & Tutoriel Vidéo
+
+Découvrez l'application en action et son guide d'utilisation en vidéo :  
+🎬 https://www.youtube.com/watch?v=52mrNa7-Imk
+
 ---
 
 ## 🚀 Fonctionnalités Principales
