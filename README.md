@@ -3,6 +3,9 @@
 
 **Py-Ceph** est une application de bureau performante développée en Python permettant de réaliser des analyses céphalométriques orthodontiques à partir de clichés radiographiques. L'application offre une interface intuitive pour placer des points de repère (landmarks), calculer automatiquement les angles et mesures céphalométriques, et générer un rapport médical complet au format PDF.
 
+[![Guide d'utilisation Py-Ceph](https://img.youtube.com/vi/52mrNa7-Imk/0.jpg)](https://www.youtube.com/watch?v=52mrNa7-Imk)
+*Cliquez sur l'image ci-dessus pour lancer la vidéo de démonstration sur YouTube.*
+
 ---
 
 ## 🚀 Fonctionnalités Principales
